@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"4fdbbf70faf796d6","type":"text","text":"# Start of learning","x":-120,"y":-576,"width":300,"height":56,"color":"3"},
+		{"id":"a32f31c42e770f56","type":"file","file":"learning/programming/rust/data-types(rust).md","x":-1120,"y":-440,"width":400,"height":400},
+		{"id":"07a586d0d908bc82","type":"file","file":"learning/programming/rust/Key-words(rust).md","x":-1000,"y":160,"width":400,"height":400},
+		{"id":"3648bc095aedaf9b","type":"file","file":"learning/programming/rust/Common-programming-concepts.md","x":-550,"y":-200,"width":400,"height":400},
+		{"id":"a163baedc7728d68","type":"text","text":"# Basics of rust","x":-40,"y":-260,"width":260,"height":60,"color":"5"},
+		{"id":"37edcc76a7f2a72c","type":"text","text":"# Ownership and Borrowing","x":-40,"y":0,"width":440,"height":60,"color":"1"},
+		{"id":"1981cef3cac7e428","type":"file","file":"learning/programming/rust/ownership.md","x":400,"y":-576,"width":400,"height":400},
+		{"id":"3fbb7daf58517f6b","type":"file","file":"learning/programming/rust/borrowing.md","x":880,"y":-370,"width":400,"height":400},
+		{"id":"f8e7b3ef7183964f","type":"file","file":"learning/programming/rust/structures.md","x":960,"y":330,"width":400,"height":400},
+		{"id":"3c702756fc3a90af","type":"text","text":"# Structures","x":600,"y":270,"width":220,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"595bbaf67c00362a","fromNode":"4fdbbf70faf796d6","fromSide":"bottom","toNode":"a163baedc7728d68","toSide":"top"},
+		{"id":"cd5d7cfd4b280c0e","fromNode":"3648bc095aedaf9b","fromSide":"left","toNode":"a32f31c42e770f56","toSide":"right"},
+		{"id":"28d8eb4f66b08892","fromNode":"3648bc095aedaf9b","fromSide":"left","toNode":"07a586d0d908bc82","toSide":"top"},
+		{"id":"3f70a79ade15be95","fromNode":"a163baedc7728d68","fromSide":"left","toNode":"3648bc095aedaf9b","toSide":"top"},
+		{"id":"4de1f4b4c1950a89","fromNode":"a163baedc7728d68","fromSide":"bottom","toNode":"37edcc76a7f2a72c","toSide":"top"},
+		{"id":"f4617c942ad48b3f","fromNode":"37edcc76a7f2a72c","fromSide":"right","toNode":"1981cef3cac7e428","toSide":"left"},
+		{"id":"b6b945dd8c480fd9","fromNode":"37edcc76a7f2a72c","fromSide":"right","toNode":"3fbb7daf58517f6b","toSide":"left"},
+		{"id":"275a6c56747e86bd","fromNode":"37edcc76a7f2a72c","fromSide":"bottom","toNode":"3c702756fc3a90af","toSide":"top"},
+		{"id":"969812da5f8d7d21","fromNode":"3c702756fc3a90af","fromSide":"bottom","toNode":"f8e7b3ef7183964f","toSide":"left"}
+	]
+}

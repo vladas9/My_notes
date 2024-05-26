@@ -1,0 +1,17 @@
+---
+tags:
+  - rust
+  - programming
+---
+- [for](Common-programming-concepts.md#For)
+- [loop](Common-programming-concepts.md#Loop)
+- [while](Common-programming-concepts.md#While)
+- [If/else](Common-programming-concepts.md#if/else)
+- [fn](Common-programming-concepts.md#Functions) 
+- pub (To make a function public)
+- break  (Is used to stop a loop)
+- continue (Is used to exit this iteration of the loop and go to the next one)
+- const (Declare a variable to be constant)
+- [struct](structures.md)
+- [impl](methods.md)
+- [enum](enumerations)
