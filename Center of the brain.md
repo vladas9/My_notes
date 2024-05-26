@@ -1,5 +1,4 @@
 # Projects
-- [[Ideas]]
 - [[Epidemic simulator]]
 - [[Plagiarism checker for code]]
 
