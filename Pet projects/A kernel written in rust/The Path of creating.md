@@ -9,5 +9,5 @@ tags:
 ---
 # Steps of development 
 1. [[Understanding]]
-2. 
+2. [[First steps]]
 
