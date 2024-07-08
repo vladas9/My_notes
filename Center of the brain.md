@@ -19,3 +19,4 @@
 # Daily tasks
 - [[April tasks 2024]]
 - [[May tasks 2024]]
+- [[June task 2024]]

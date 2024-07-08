@@ -12,7 +12,7 @@ tags:
     - [[Open Systems Interconnection (OSI) model]]
     - [[HTTP response header]]
 3. Data structures
+	- [[Linked list]]
 	- [[Binary search tree]]
-	- [[AVL tree]]
-4. Other
+5. Other
 	- [[ppm image]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - physics
+---
 # Formulas 
 $$
 \LARGE

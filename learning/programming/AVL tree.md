@@ -2,6 +2,7 @@
 Date: 2024-05-17
 tags:
   - programming
+  - data_structure
 ---
 # AVL Tree Data Structure
 
@@ -12,7 +13,7 @@ The difference between the heights of the left subtree and the right subtree for
 
 ## Why AVL Trees? 
 
->[!inote]
+>[!note]
 >Most of the BST operations (e.g., search, max, min, insert, delete.. etc) take **O(h)** time where **h** is the height of the BST. The cost of these operations may become **O(n)** for a **skewed Binary tree**. If we make sure that the height of the tree remains **O(log(n))** after every insertion and deletion, then we can guarantee an upper bound of **O(log(n))** for all these operations. The height of an AVL tree is always **O(log(n))** where **n** is the number of nodes in the tree.
 
 

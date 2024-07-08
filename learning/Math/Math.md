@@ -6,6 +6,7 @@ tags:
 # Math
 1. Numerical Analyzes
 	- [[Floating point numbers]]
+	- [[Root-finding-methods]]
 	- [[Iteration Methods]]
 	- [[Legendre polynomials]]
 	- [[Gauss-Legendre quadrature]]
@@ -27,5 +28,5 @@ tags:
 	- [[Real Integration]]
 	- [[Complex Integration]]
 5. Other
-	- [[AXIOMS AND POSTULATES OF EUCLID]]
+	- [[Axioms and Postulates of Euclid]]
 	

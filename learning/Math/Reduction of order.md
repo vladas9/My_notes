@@ -11,7 +11,7 @@ $\Large a(t)y'' + b(t)y' + c(t)y = 0$
 where $a(t)$, $b(t)$, and $c(t)$ are continuous functions of $t$.
 #### Method:
 
-1. **Given Solution**: Suppose we have one solution of the form $y_1(t)$.
+1. **Given Solution**: Suppose we have one solution of the form $y_1(t)$
 
 2. **Assume Second Solution**: We assume a second solution of the form $y_2(t) = v(t)y_1(t)$, where $v(t)$ is a function to be determined.
    

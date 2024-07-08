@@ -8,7 +8,7 @@ tags:
 2. **Homogeneous Equation**:
 	y'' + p(t)y' + q(t)y = 0 
 
-For case (2), let's suppose \(y_1(t)\) and \(y_2(t)\) are solutions.
+For case (2), let's suppose $y_1(t)$ and $y_2(t)$ are solutions.
 
 - **Complementary Solution ($y_c$)**:
   The general solution of the [[Homogeneous 2nd ODE]] (2) is represented as:
@@ -26,8 +26,7 @@ How to find the $Y_p$:
 | $\large \alpha \cos(\beta t) + \gamma \sin(\beta t)$<br>(or only one of them) | $\large A\cos(\beta t) + B\sin(\beta t)$        |
 | poly. of degree n                                                             | $\large A_1t^n + A_2t^{n-1}+...+A_{n-1}t + A_n$ |
 | $g_1(t) + g_2(t)$                                                             | $Y_{1p}+Y_{2p}$                                 |
-- [i] If the particular solution  $\large e^{\beta t}$ is already in the complimentary solution  $\large y_c$
-then we should write $\large Ate^{\beta t}$
+- [i] If the particular solution  $\large e^{\beta t}$ is already in the complimentary solution  $\large y_c$ then we should write $\large Ate^{\beta t}$
 >[!Warning]
 >- Equations involving fractions or rational functions
 > - Equations involving roots or radicals
